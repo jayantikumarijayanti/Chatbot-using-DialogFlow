@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore IDE-specific files (for example, JetBrains IDEs like PyCharm)
+.idea/
+
+# Ignore log files
+*.log
+
